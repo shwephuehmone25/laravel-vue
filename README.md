@@ -1,1 +1,1 @@
-# laravel-vue-authentication
+# laravel-vue-demo
